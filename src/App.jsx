@@ -22,12 +22,15 @@ const App = () => {
      <div className='FeatureShape'></div>
     </div>
     <div className="ContainerAll3">
+
       <Service></Service>
      <div className='ServiceShape'></div>
     </div>
     <div className="ContainerAll4">
     <Price></Price>
     <div className="PriceShape"></div>
+
+    
     </div>
     <div className="ContainerAll5">
     <Contact></Contact>
